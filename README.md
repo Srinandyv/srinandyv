@@ -11,7 +11,7 @@
    <b align="center">𝕊𝕜𝕚𝕝𝕝𝕤 :</b>
     <p align="center">
       <a href="skills">
-        <img src="https://skillicons.dev/icons?i=git,python,linux,vscode,javascrip,html,css,pr,t&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,python,linux,vscode,javascript,html,css,pr,t&theme=dark" />
       </a>
     </p>
     
